@@ -1,0 +1,6 @@
+Netmaxiot.py
+setup.py
+Netmaxiot.egg-info/PKG-INFO
+Netmaxiot.egg-info/SOURCES.txt
+Netmaxiot.egg-info/dependency_links.txt
+Netmaxiot.egg-info/top_level.txt
