@@ -1,16 +1,12 @@
 # Netmaxiot-Shield
 Netmaxiot-Shield
 
-Library For Netmax iot Shiled
+Library For Netmax iot Shield
 
-please go to /home/pi folder of pi and run following commands
+These are old Netmax iot Files please install new Iot Shiled Files 
 
-git clone https://github.com/NetmaxIOT/Netmaxiot-Shield.git
+avalible at 
 
-cd Netmaxiot-Shield
-
-chmod 777 install.sh.x
-
-./install.sh.x
+https://github.com/NetmaxIOT/Netmaxiot
 
 
